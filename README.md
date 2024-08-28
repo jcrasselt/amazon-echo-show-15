@@ -30,3 +30,25 @@ weeks!
   *"ForensicEcho20221120"* and *"ForensicEcho20230223"*.
 - When comparing time stamps, winter and summer time should be taken into
   account. The devices were located in Germany.
+
+## Paper
+
+Our paper was presented at the 24th Annual _Digital Forensics Research Conference USA_ ([DFRWS USA 2024](https://dfrws.org/presentation/started-off-local-now-were-in-the-cloud-forensic-examination-of-the-amazon-echo-show-15-smart-display/)):
+
+> Jona Crasselt and Gaston Pugliese.
+> [_Started Off Local, Now We're in the Cloud_: Forensic Examination of the Amazon Echo Show 15 Smart Display](https://dfrws.org/wp-content/uploads/2024/07/dfrws-usa-2024-echo-show-15.pdf). Digital Forensics Research Conference USA (DFRWS USA 2024).
+
+<details>
+<summary>BibTeX</summary>
+
+```bibtex
+@inproceedings{crasselt2024echo, 
+    title = {{Started Off Local, Now We’re in the Cloud: Forensic Examination of the Amazon Echo Show 15 Smart Display}}, 
+    author = {Jona Crasselt and Gaston Pugliese}, 
+    year = {2024}, 
+    booktitle = {{Digital Forensics Research Conference USA (DFRWS USA 2024)}}, 
+    url = {https://dfrws.org/wp-content/uploads/2024/07/dfrws-usa-2024-echo-show-15.pdf} 
+}
+```
+
+</details>
