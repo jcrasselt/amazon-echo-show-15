@@ -27,7 +27,7 @@ contains valuable hints for the used encryption:
 - **IV length**: 16
 
 A tool to decrypt the encrypted values in `map_data_storage_v2.db` is provided in
-[tools/token-db](../tools/token-db/).
+[tools/token-db](../../tools/token-db/README.md).
 
 The following listing shows a minimal working Java implementation for token decryption:
 ```java

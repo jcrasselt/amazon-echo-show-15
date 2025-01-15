@@ -1,20 +1,16 @@
 
 # *Started Off Local, Now We're in the Cloud*: Forensic Examination of the Amazon Echo Show 15 Smart Display
 
-**🏗️ WORK IN PROGRESS**:
-This repository is not yet complete and will be further updated in the next
-weeks!
-
 <a href="./docs/assets/IMG_0494_edit.jpg">
 <img src="./docs/assets/IMG_0494_edit.jpg" width="500" alt="Micro USB port and power jack.">
 </a>
 
 ## Table of Contents
-- Hardware Interfaces
+- [Hardware](./docs/hardware.md)
   - [Micro USB](./docs/micro-usb.md)
-  - UART: *COMING SOON*
+  - [UART](./docs/uart.md)
   - [eMMC Interface and Partitions](./docs/emmc.md)
-  - Micro HDMI: *COMING SOON*
+  - [Micro HDMI](./docs/micro-hdmi.md)
 - [Filesystem](./docs/filesystem/)
   - [Log Files](./docs/filesystem/log-files.md)
 - [Decryption of Token Database](./docs/filesystem/token-db.md)
@@ -39,7 +35,7 @@ Our paper was presented at the 24th Annual _Digital Forensics Research Conferenc
 > [_Started Off Local, Now We're in the Cloud_: Forensic Examination of the Amazon Echo Show 15 Smart Display](https://dfrws.org/wp-content/uploads/2024/07/dfrws-usa-2024-echo-show-15.pdf). Digital Forensics Research Conference USA (DFRWS USA 2024).
 
 <details>
-<summary>BibTeX</summary>
+<summary><b>BibTeX</b></summary>
 
 ```bibtex
 @inproceedings{crasselt2024echo, 
