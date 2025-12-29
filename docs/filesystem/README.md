@@ -11,7 +11,7 @@
 |data:/data/com.amazon.avod/files/databases/dbplaybackhistory|SQLite|Prime Video Watch History|
 |data:/data/amazon.speech.sim/shared_prefs/user_activity_prefs.xml|xml|Last time of user interaction via Alexa voice command|
 |data:/data/com.amazon.alexahybridremoteskill/files/customerHomeRegistry.db|SQLite|Known devices (Echos, Smartphones, connected IoT devices)|
-|data:/data/com.amazon.cardinal/cache/|Directory|Picture by connected smart home camera|
+|data:/data/com.amazon.cardinal/cache/|Directory|Picture taken by the connected smart home camera|
 |data:/data/com.amazon.gloria.smarthome/shared_prefs/SmartHomeEntityCache.xml|xml|Smarthome devices|
 |data:[/data/com.amazon.imp/databases/map_data_storage_v2.db](./token-db.md)|SQLite|Database with user name, user ID, encrypted Alexa API credentials and encryption key|
 |data:/securedStorageLocation/com.amazon.alta.h2clientservice/databases/alta.h2clientservice.db|SQLite|Database with user name, email address|
@@ -26,6 +26,7 @@
 |data:/system/notification_log.db|SQLite|Event log|
 |data:/data/com.amazon.knight.calendar/shared_prefs/com.amazon.knight.calendar_preferences.xml|xml|Timestamp of last boot time|
 |data:/data/com.amazon.alexa.identity/databases/recognition|SQLite|user IDs of Users enrolled in Visual ID with timestamp (unknown what they mean)|
+|data:/data/amazon.speech.sim/shared_prefs/device_context.xml|xml|Username logged in to Spotify|
 
 
 

@@ -107,7 +107,7 @@ Photo app stores its data on Android in
   |com.amazon.dcp.sso.token.oauth.amazon.refresh_token            |Atnr\|{REDACTED}|
   |com.amazon.dcp.sso.token.oauth.amazon.access_token.refreshed_at|1669467152264   |
   |com.amazon.dcp.sso.token.oauth.amazon.access_token.expires_at  |1669470752264   |
-  |com.amazon.dcp.sso.token.oauth.amazon.access_token|Atna\       |{REDACTED}      |
+  |com.amazon.dcp.sso.token.oauth.amazon.access_token             |Atna\|{REDACTED}|
 
 - `databases/metadata_cache_database_1666554178`
 
